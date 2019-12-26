@@ -1,4 +1,4 @@
 module.exports = {
-  TOKEN: '903508597:AAEOrr-6O3TQn_YoQeB2i5IFNmpE0BvyS28',
+  TOKEN: '1051118445:AAGwuo-cfsJh2wyf1IRMQZEWQ9flmPtJEvk',
   DB_URL: 'mongodb://localhost/gangnam'
 }
