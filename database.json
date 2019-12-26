@@ -1,0 +1,327 @@
+{
+  "myproducts": [
+    {
+      "name": "CHAGA BIRCH FOREST MYSTIC TONER",
+      "productCode": "S000002",
+      "volume": "300ml",
+      "price": "185,000",
+      "category": "Supiyo Toner",
+      "picture": "http://pipe.uz/tgBot/Supiyo/toner/1.jpg",
+      "keyboardName": "tonerSupiyo"
+    },
+    {
+      "name": "CICA REPAIR BUBBLE TONER",
+      "productCode": "S000080",
+      "volume":"150ml",
+      "price": "140,000",
+      "category": "Supiyo Toner",
+      "picture": "http://pipe.uz/tgBot/Supiyo/toner/2.jpg",
+      "keyboardName": "tonerSupiyo"
+    },
+    {
+      "name": "AC FINISH TONER",
+      "productCode":"S000085",
+      "volume":"120ml",
+      "price": "215,000",
+      "category": "Supiyo Toner",
+      "picture": "http://pipe.uz/tgBot/Supiyo/toner/3.jpg",
+      "keyboardName": "tonerSupiyo"
+    },
+    {     
+      "name": "BUBBLE TONER BOTTLE",
+      "volume":"150ml",
+      "price": "20.000",
+      "category": "Supiyo Toner",
+      "picture": "http://pipe.uz/tgBot/Supiyo/toner/4.jpg",
+      "keyboardName": "tonerSupiyo"
+    },
+    {
+      "name": "MIST TONER BOTTLE",
+      "volume":"50ml",
+      "price": "15,000",
+      "category": "Supiyo Toner",
+      "picture": "http://pipe.uz/tgBot/Supiyo/no-img.jpg",
+      "keyboardName": "tonerSupiyo"
+    },
+    {
+      "name": "CHAGA BIRCH FOREST EMILS",
+      "productCode": "S000015",
+      "volume": "120ml",
+      "price": "210,000",
+      "category": "Supiyo essence",
+      "picture": "http://pipe.uz/tgBot/Supiyo/essence/2.png",
+      "keyboardName": "essenceSupiyo"
+    },
+    {
+      "name": "CHAGA BIRCH FOREST SERUM AMPOULE",
+      "productCode": "S000043",
+      "volume": "25ml",
+      "price": "265,000",
+      "category": "Supiyo ampoule",
+      "picture": "http://pipe.uz/tgBot/Supiyo/ampoule/1.jpg",
+      "keyboardName": "ampouleSupiyo"
+    },
+    {
+      "name": "CHAGA BIRCH FOREST CREAM 100ml",
+      "productCode": "S000042",
+      "volume": "100ml",
+      "price": "240,000",
+      "category": "Supiyo cream",
+      "picture": "http://pipe.uz/tgBot/Supiyo/cream/1.jpg",
+      "keyboardName": "creamSupiyo"
+    },
+    {
+      "name": "CHAGA BIRCH FOREST CREAM 40ml",
+      "productCode": "S000046",
+      "volume": "40ml",
+      "price": "125,000",
+      "category": "Supiyo cream",
+      "picture": "http://pipe.uz/tgBot/Supiyo/cream/2.jpg",
+      "keyboardName": "creamSupiyo"
+    },
+    {
+      "name": "CHAGA BIRCH SOFT MELTING CREAM",
+      "productCode": "S000010",
+      "volume": "100ml",
+      "price": "210,000",
+      "category": "Supiyo cream",
+      "picture": "http://pipe.uz/tgBot/Supiyo/cream/3.jpeg",
+      "keyboardName": "creamSupiyo"
+    },
+    {
+      "name": "FIRST MILK NOURISHING CREAM",
+      "productCode": "S000003",
+      "volume": "100ml",
+      "price": "265,000",
+      "category": "Supiyo cream",
+      "picture": "http://pipe.uz/tgBot/Supiyo/cream/5.jpg",
+      "keyboardName": "creamSupiyo"
+    },
+    {
+      "name": "CLEAN AND BRIGHT TONE-UP CREAM",
+      "productCode": "S000005",
+      "volume": "40ml",
+      "price": "170,000",
+      "category": "Supiyo cream",
+      "picture": "http://pipe.uz/tgBot/Supiyo/cream/6.jpg",
+      "keyboardName": "creamSupiyo"
+    },
+    {
+      "name": "ALWAYS MOIST STEAM CREAM 100ml",
+      "productCode": "S000012",
+      "volume": "100ml",
+      "price": "210,000",
+      "category": "Supiyo cream",
+      "picture": "http://pipe.uz/tgBot/Supiyo/cream/7.jpg",
+      "keyboardName": "creamSupiyo"
+    },
+    {
+      "name": "ALWAYS MOIST STEAM CREAM 40ml",
+      "productCode": "S000013",
+      "volume": "40ml",
+      "price": "125,000",
+      "category": "Supiyo cream",
+      "picture": "http://pipe.uz/tgBot/Supiyo/cream/8.jpg",
+      "keyboardName": "creamSupiyo"
+    },
+    {
+      "name": "FOREST MOIST GUARD BALM",
+      "productCode": "S000180",
+      "volume": "40ml",
+      "price": "175,000",
+      "category": "Supiyo cream",
+      "picture": "http://pipe.uz/tgBot/Supiyo/cream/9.jpg",
+      "keyboardName": "creamSupiyo"
+    },
+    {
+      "name": "LONGO MOISTURE GEL CREAM",
+      "productCode": "S000040",
+      "volume": "200ml",
+      "price": "175,000",
+      "category": "Supiyo cream",
+      "picture": "http://pipe.uz/tgBot/Supiyo/cream/10.jpg",
+      "keyboardName": "creamSupiyo"
+    },
+    {
+      "name": "AC FINISH CREAM",
+      "productCode": "S000087",
+      "volume": "50ml",
+      "price": "240,000",
+      "category": "Supiyo cream",
+      "picture": "http://pipe.uz/tgBot/Supiyo/cream/11.jpg",
+      "keyboardName": "creamSupiyo"
+    },
+    {
+      "name": "CHAGA BIRCH SLEEPING BEAUTY PACK 100ml",
+      "productCode": "S000094",
+      "volume": "100ml",
+      "price": "170,000",
+      "category": "Supiyo mask pack",
+      "picture": "http://pipe.uz/tgBot/Supiyo/mask pack/1.jpg",
+      "keyboardName": "maskPackSupiyo"
+    },
+    {
+      "name": "AC FINISH SERUM",
+      "productCode": "S000086",
+      "volume": "50ml",
+      "price": "250,000",
+      "category": "Supiyo serum",
+      "picture": "http://pipe.uz/tgBot/Supiyo/serum/1.jpg",
+      "keyboardName": "serumSupiyo"
+    },
+    {
+      "name": "AC FINISH CLEANSING FOAM",
+      "productCode": "S000084",
+      "volume": "100ml",
+      "price": "173,000",
+      "category": "Supiyo foam",
+      "picture": "http://pipe.uz/tgBot/Supiyo/foam/1.jpg",
+      "keyboardName": "foamSupiyo"
+    },
+    {
+      "name": "SOAP BERRY FOREST CLEANSING FOAM",
+      "productCode": "S000044",
+      "volume": "200g",
+      "price": "155,000",
+      "category": "Supiyo foam",
+      "picture": "http://pipe.uz/tgBot/Supiyo/foam/2.jpg",
+      "keyboardName": "foamSupiyo"
+    }, 
+    {
+      "name": "FOREST CLEAN BUBBLE LIP MASK PACK",
+      "productCode": "undefinded",
+      "volume": "12g",
+      "price": "85,000",
+      "category": "Supiyo lip",
+      "picture": "http://pipe.uz/tgBot/Supiyo/foam/1.jpg",
+      "keyboardName": "lipSupiyo"
+    },
+    {
+      "name": "FOREST LIP BALM",
+      "productCode": "S000016",
+      "volume": "3.5g",
+      "price": "43,000",
+      "category": "Supiyo lip",
+      "picture": "http://pipe.uz/tgBot/Supiyo/foam/2.jpg",
+      "keyboardName": "lipSupiyo"
+    },
+    {
+      "name": "MINT TEA SUN SOOTHING LOTION SPF50+ PA++++",
+      "productCode": "S000079",
+      "volume": "80ml",
+      "price": "170,000",
+      "category": "Supiyo sun",
+      "picture": "http://pipe.uz/tgBot/Supiyo/sun/1.jpg",
+      "keyboardName": "sunSupiyo"
+    },
+    {
+      "name": "SUN TONE-UP CUSHION PACT SPF50+ PA+++",
+      "productCode": "S000079",
+      "volume": "13g",
+      "price": "210,000",
+      "category": "Supiyo pact",
+      "picture": "http://pipe.uz/tgBot/Supiyo/pact/1.jpg",
+      "keyboardName": "pactSupiyo"
+    },
+    {
+      "name": "MILK DEEP RICH HAND BUTTER (GRAPEFRUIT)",
+      "features": "GRAPEFRUIT",
+      "productCode": "S000006",
+      "volume": "40ml",
+      "price": "85,000",
+      "category": "Supiyo hand",
+      "picture": "http://pipe.uz/tgBot/Supiyo/hand/4.jpg",
+      "keyboardName": "handSupiyo"
+    },
+    {
+      "name": "MILK DEEP RICH HAND BUTTER (PEACH)",
+      "productCode": "S000008",
+      "volume": "40ml",
+      "price": "85,000",
+      "category": "Supiyo hand",
+      "picture": "http://pipe.uz/tgBot/Supiyo/hand/4.jpg",
+      "keyboardName": "handSupiyo"
+    },
+    {
+      "name": "MILK DEEP RICH HAND BUTTER (HYDRANGEA)",
+      "productCode": "S000007",
+      "volume": "40ml",
+      "price": "85,000",
+      "category": "Supiyo hand",
+      "picture": "http://pipe.uz/tgBot/Supiyo/hand/4.jpg",
+      "keyboardName": "handSupiyo"
+    },
+    {
+      "name": "MILK DEEP RICH HAND BUTTER GIFT SET (GRAPEFRUIT)",
+      "productCode": "S000067",
+      "volume": "40ml x 2ea",
+      "price": "140,000",
+      "category": "Supiyo hand",
+      "picture": "http://pipe.uz/tgBot/Supiyo/hand/1.jpg",
+      "keyboardName": "handSupiyo"
+    },
+    {
+      "name": "MILK DEEP RICH HAND BUTTER GIFT SET (PEACH)",
+      "productCode": "S000065",
+      "volume": "40ml x 2ea",
+      "price": "140,000",
+      "category": "Supiyo hand",
+      "picture": "http://pipe.uz/tgBot/Supiyo/hand/2.jpg",
+      "keyboardName": "handSupiyo"
+    },
+    {
+      "name": "MILK DEEP RICH HAND BUTTER GIFT SET (HYDRANGEA)",
+      "productCode": "S000066",
+      "volume": "40ml x 2ea",
+      "price": "140,000",
+      "category": "Supiyo hand",
+      "picture": "http://pipe.uz/tgBot/Supiyo/hand/3.jpg",
+      "keyboardName": "handSupiyo"
+    },
+    {
+      "name": "FOREST PORE TIGHTENING MASK",
+      "productCode": "S000014",
+      "volume": "100ml",
+      "price": "175,000",
+      "category": "Supiyo mask pack",
+      "picture": "http://pipe.uz/tgBot/Supiyo/mask pack/2.jpg",
+      "keyboardName": "maskPackSupiyo"
+    },
+    {
+      "name": "MORNING MASK SHEET (10EA/1BOX)",
+      "productCode": "S000018",
+      "volume": "7ml x 10ea",
+      "price": "130,000",
+      "category": "Supiyo mask sheet",
+      "picture": "http://pipe.uz/tgBot/Supiyo/mask sheet/11.jpg",
+      "keyboardName": "maskSheetSupiyo"
+    },
+    {
+      "name": "FOREST MASQ - SKIN MOISTURIZING",
+      "productCode": "S000054",
+      "volume": "25ml x 5ea",
+      "price": "86,000",
+      "category": "Supiyo mask sheet",
+      "picture": "http://pipe.uz/tgBot/Supiyo/mask sheet/1.jpg",
+      "keyboardName": "maskSheetSupiyo"
+    },
+    {
+      "name": "FOREST MASQ - SKIN CALMING",
+      "productCode": "S000052",
+      "volume": "25ml x 5ea",
+      "price": "86,000",
+      "category": "Supiyo mask sheet",
+      "picture": "http://pipe.uz/tgBot/Supiyo/mask sheet/2.jpg",
+      "keyboardName": "maskSheetSupiyo"
+    },
+    {
+      "name": "FOREST MASQ - SKIN NOURISHING",
+      "productCode": "S000050",
+      "volume": "25ml x 5ea",
+      "price": "86,000",
+      "category": "Supiyo mask sheet",
+      "picture": "http://pipe.uz/tgBot/Supiyo/mask sheet/3.jpg",
+      "keyboardName": "maskSheetSupiyo"
+    }
+  ]
+}
